@@ -1,0 +1,9 @@
+>>> def example():
+...     print("basic information");
+...     z=3+9
+...     print(z)
+... 
+>>> 
+>>> example()
+basic information
+12
